@@ -25,7 +25,7 @@ The trick of the problem is that the host knows where the car is and will always
 The correct strategy is to always switch doors, which results in a 2/3 chance of winning the car, versus 1/3 for not switching doors.
 
 
-<img src="/public/montyhallproblem.png" alt="example picture">
+<img src="/public/montyhallproblem2.png" alt="example picture">
 
 
 ### Built With
