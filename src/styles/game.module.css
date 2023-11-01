@@ -1,0 +1,29 @@
+.game {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.portas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.botoes button {
+    background-color: darkslateblue;
+    color: white;
+    font-size: 2rem;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px 1px #1119;
+}
